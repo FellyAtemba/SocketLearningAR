@@ -2,7 +2,7 @@
 
 An AR learning prototype built with Unity 6 that teaches users to identify the three key parts of a UK Type G electrical socket (Earth, Live, and Neutral) using augmented reality image tracking.
 
-## 📱 How It Works
+##  How It Works
 
 1. **Point** your Android phone at a real UK-style electrical socket or the provided reference image
 2. **Detect** - AR Foundation's image tracking recognizes the socket and overlays interactive labels
